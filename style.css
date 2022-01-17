@@ -1,0 +1,21 @@
+body {background-color: rgb(154, 243, 255);}
+
+.titlefont {  padding-top: 2px; padding-bottom: 2px;
+    font-family: fantasy; 
+    text-align: center;
+     background-color:
+      slateblue;
+       font-size: x-large;}
+
+.linky { 
+   font-family: "Monoco", monospace; font-size: larger; color:seagreen; font-weight: bolder;}
+
+.tears {text-align: justify ; background-color: pink; list-style-type: korean-hangul-formal ; list-style-position: inside; }
+
+img { display: block ; margin-left: auto ; margin-right: auto ; border-radius: 300px; }
+.imageandintro { font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(57, 80, 79); text-align: center; padding-top: 30px; padding-bottom: 30px; border-radius: 120px; padding-inline: 34px; }
+
+.ingredients {background-color: tan;}
+
+.directions {background-color: tomato;}
